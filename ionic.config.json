@@ -1,0 +1,7 @@
+{
+  "name": "ionic-react-cards",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
