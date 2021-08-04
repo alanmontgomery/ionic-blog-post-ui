@@ -3,7 +3,7 @@ An example of Blog Posts in Ionic React
 <br />
 If you'd like to support, you can <a className="link" href="https://www.buymeacoffee.com/ionicreacthub" target="_blank" rel="noopener">buy me a coffee</a> ☕️
 
-![Ionic React Travel App UI](https://repository-images.githubusercontent.com/390244002/f2ae1f3c-3661-465a-9e60-c17f4cfc576c)
+![Ionic React Blog Post UI](https://repository-images.githubusercontent.com/392824689/be0c1746-7289-49c6-a774-c72846b2cf02)
 
 ### Included in this Ionic React Template/UI
 * Blog Post list view layout with cards
