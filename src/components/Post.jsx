@@ -8,7 +8,7 @@ export const Post = ({ post }) => {
     return (
 
         <IonCard routerLink={ `/post/${ post.id }` }>
-            <img src={ post.image } alt="main post" />
+            <img src={ post.image } alt="main post" className="post-image" />
 
             <IonCardHeader>
                 <IonRow className="ion-align-items-center ion-justify-content-between">
